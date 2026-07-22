@@ -101,4 +101,6 @@ The original Python project was built without relying on a paid or key-gated wea
 
 This project is open source and available for learning and personal use. Feel free to fork it, break it, and make it your own — that's exactly how the original one started.
 
+Enhanced app is here without API use it.
+
 **Make Coding Great Again**
