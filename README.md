@@ -88,7 +88,6 @@ The original Python project was built without relying on a paid or key-gated wea
 - [ ] Add a 14-day extended forecast
 - [ ] Add air quality index integration
 - [ ] PWA support for offline access
-
 ---
 
 ## 🙏 Acknowledgements
