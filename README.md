@@ -105,5 +105,4 @@ Enhanced app is here without API.
 
 **Make Coding Great Again**
 
-New Website is coming.
-But it's too late to tell you.
+The New Website has Arrived.
