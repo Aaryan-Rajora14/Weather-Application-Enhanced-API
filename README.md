@@ -105,4 +105,4 @@ Enhanced app is here without API.
 
 **Make Coding Great Again**
 
-The New Website has Arrived.
+The New Website is yet to Arrive.
